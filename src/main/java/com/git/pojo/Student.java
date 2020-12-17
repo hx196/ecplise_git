@@ -6,6 +6,7 @@ public class Student {
 		// TODO Auto-generated method stub
 		System.out.println("ecplise");
 		System.out.println("更新1");
+		System.out.println("更新2");
 	}
 
 }
